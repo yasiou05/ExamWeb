@@ -1,0 +1,10 @@
+# Create and enter project folder
+mkdir couple-blog-backend
+cd couple-blog-backend
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install necessary packages
+pip install flask flask-cors flask-mysql flask-jwt-extended flask-sqlalchemy python-dotenv
