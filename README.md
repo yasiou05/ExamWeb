@@ -7,3 +7,4 @@
 * npm i react-router  
 * npm i @concepta/react-auth-provider  
 * npm i react-bootstrap  
+* npm install react-type-animation  
