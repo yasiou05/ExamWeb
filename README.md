@@ -8,3 +8,4 @@
 * npm i @concepta/react-auth-provider  
 * npm i react-bootstrap  
 * npm install react-type-animation  
+* npm i motion clsx tailwind-merge @tabler/icons-react  
